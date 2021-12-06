@@ -1,0 +1,10 @@
+Liste des questions à la quel le programme doit répondre
+________________________________________________________
+
+— Combien y a-t-il de maires en France ?
+— Quel est l’âge du plus jeune maire ?
+— Quel est l’âge moyen des maires en France ?
+— Quel est l’âge moyen des maires des communes de plus de 100 000 habitants ?
+— Dans quel département trouve-t-on les maires les plus jeunes (en moyenne) ?
+— Combien de maires portent le prénom « Aurélien » ? « Alexis » ?
+— Quelle est la profession la plus représentée ?
