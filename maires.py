@@ -1,4 +1,4 @@
-# Crée par Margaux et Brendon
+# Crée par Brendon
 
 fichier = open("maires.txt", "r")
 
